@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "NIce",
+      "description": "M",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Some Stream",
+      "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "with Id",
+      "id": 3
+    },
+    {
+      "title": "w/ id",
+      "description": "iddd",
+      "id": 4
+    }
+  ]
+}
